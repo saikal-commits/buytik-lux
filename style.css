@@ -866,6 +866,13 @@ button {
   width: 256px;
   height: 300px;
 }
+.company-pos1 img {
+  position: absolute;
+  bottom: 399px;
+  left: -61px;
+  width: 256px;
+  height: 300px;
+}
 .choose-pos1 img {
   position: absolute;
   bottom: 261px;
